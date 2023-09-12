@@ -1,4 +1,4 @@
-# instagram
+# social media
 
 A new Flutter project.
 
